@@ -11,10 +11,10 @@ slack_web_client = WebClient(token)
 # Get a new NestorBot
 nestor_bot = NestorBot("#general")
 
-if populate.dbpopulate():
-	print("Nice")
-else:
-	print("Not nice")
+#if populate.dbpopulate():
+#	print("Nice")
+#else:
+#	print("Not nice")
 
 # Get the onboarding message payload
 
