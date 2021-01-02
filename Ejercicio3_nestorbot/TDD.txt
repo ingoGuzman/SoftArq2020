@@ -1,0 +1,3 @@
+- Se escribe una prueba unitaria
+- Se escribe el codigo minimo para pasar la prueba
+- Se afina el codigo para optimizar
